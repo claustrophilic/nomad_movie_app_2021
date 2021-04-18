@@ -1,3 +1,7 @@
+# Movie App 2021 
+
+React JS Fundamental Course (2021 Update) by Nomad Coder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
